@@ -1,0 +1,16 @@
+{
+  "recipes": [
+    {
+      "repo": "rime/rime-luna-pinyin",
+      "name": "朙月拼音",
+      "schemas": [
+        "luna_pinyin",
+        "luna_pinyin_fluency",
+        "luna_pinyin_simp",
+        "luna_pinyin_tw",
+        "luna_quanpin"
+      ],
+      "license": "LGPL-3.0-only"
+    }
+  ]
+}
