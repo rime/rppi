@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "repo": "rime/rime-cantonese",
+      "name": "粤语拼音",
+      "schemas": [
+        "jyut6ping3",
+        "jyut6ping3_ipa"
+      ],
+      "license": "CC-BY-4.0"
+    },
+    {
+      "repo": "leimaau/naamning_jyutping",
+      "name": "南宁话",
+      "schemas": [
+        "naamning_baakwaa",
+        "naamning_baakwaa_ipa",
+        "naamning_bingwaa",
+        "naamning_bingwaa_ipa"
+      ],
+      "license": "MIT"
+    }
+  ]
+}

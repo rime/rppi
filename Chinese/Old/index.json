@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "repo": "rime/rime-middle-chinese",
+      "name": "中古拼音",
+      "schemas": [
+        "zyenpheng",
+        "sampheng"
+      ],
+      "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "lotem/rime-dungfungpuo",
+      "name": "东风破",
+      "schemas": [
+        "dungfungpuo"
+      ]
+    }
+  ]
+}

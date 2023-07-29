@@ -1,0 +1,17 @@
+{
+  "recipes": [
+    {
+      "repo": "kahaani/dieghv",
+      "name": "潮语拼音",
+      "schemas": [
+        "dieziu",
+        "dioion",
+        "gekion",
+        "riaupeng",
+        "suantau",
+        "tenghai"
+      ],
+      "license": "GPL-3.0-only"
+    }
+  ]
+}

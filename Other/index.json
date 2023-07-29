@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "repo": "rime/rime-ipa",
+      "name": "国际音标",
+      "schemas": [
+        "ipa_xsampa",
+        "ipa_yunlong"
+      ],
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "repo": "lotem/rime-bopomofo-script",
+      "name": "注音文",
+      "schemas": [
+        "bopomofo_script"
+      ]
+    }
+  ]
+}

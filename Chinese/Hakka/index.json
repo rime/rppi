@@ -1,0 +1,12 @@
+{
+  "recipes": [
+    {
+      "repo": "syndict/hakka",
+      "name": "客语",
+      "schemas": [
+        "hakka",
+        "hakka_meixian"
+      ]
+    }
+  ]
+}

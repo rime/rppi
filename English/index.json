@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "repo": "sdadonkey/rime-english",
+      "name": "English",
+      "labels": [
+        "lua"
+      ],
+      "schemas": [
+        "english"
+      ]
+    }
+  ]
+}

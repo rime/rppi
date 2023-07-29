@@ -2,7 +2,31 @@
   "categories": [
     {
       "key": "Mandarin",
-      "name": "普通话"
+      "name": "普通话/官话"
+    },
+    {
+      "key": "Cantonese",
+      "name": "粤语"
+    },
+    {
+      "key": "Wu",
+      "name": "吴语"
+    },
+    {
+      "key": "Hakka",
+      "name": "客语"
+    },
+    {
+      "key": "Hokkien",
+      "name": "闽语"
+    },
+    {
+      "key": "Old",
+      "name": "古音"
+    },
+    {
+      "key": "Shape",
+      "name": "字形"
     }
   ]
 }

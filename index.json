@@ -1,9 +1,25 @@
 {
-  "date": "2023-07-27",
+  "date": "2023-07-29",
   "categories": [
     {
       "key": "Chinese",
       "name": "汉语"
+    },
+    {
+      "key": "English",
+      "name": "英语"
+    },
+    {
+      "key": "Japanese",
+      "name": "日语"
+    },
+    {
+      "key": "Other",
+      "name": "其他"
+    },
+    {
+      "key": "Collection",
+      "name": "方案集"
     }
   ]
 }

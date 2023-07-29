@@ -1,0 +1,21 @@
+{
+  "recipes": [
+    {
+      "repo": "rime/rime-wugniu",
+      "name": "上海吴语",
+      "schemas": [
+        "wugniu_lopha",
+        "wugniu"
+      ],
+      "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "rime/rime-soutzoe",
+      "name": "苏州吴语",
+      "schemas": [
+        "soutzoe"
+      ],
+      "license": "GPL-3.0-only"
+    }
+  ]
+}

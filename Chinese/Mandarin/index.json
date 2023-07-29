@@ -11,6 +11,104 @@
         "luna_quanpin"
       ],
       "license": "LGPL-3.0-only"
+    },
+    {
+      "repo": "rime/rime-double-pinyin",
+      "name": "双拼",
+      "schemas": [
+        "double_pinyin",
+        "double_pinyin_abc",
+        "double_pinyin_flypy",
+        "double_pinyin_mspy",
+        "double_pinyin_pyjj"
+      ],
+      "dependencies": [
+        "rime/rime-luna-pinyin"
+      ],
+      "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "rime/rime-pinyin-simp",
+      "name": "袖珍简拼",
+      "schemas": [
+        "pinyin_simp"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "rime/rime-terra-pinyin",
+      "name": "地球拼音",
+      "schemas": [
+        "terra_pinyin"
+      ],
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "repo": "rime/rime-bopomofo",
+      "name": "注音",
+      "schemas": [
+        "bopomofo",
+        "bopomofo_express"
+      ],
+      "dependencies": [
+        "rime/rime-terra-pinyin"
+      ],
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "repo": "rime/rime-combo-pinyin",
+      "name": "宫保拼音",
+      "labels": [
+        "chord"
+      ],
+      "schemas": [
+        "combo_pinyin",
+        "combo_pinyin_8",
+        "combo_pinyin_9",
+        "combo_pinyin_10"
+      ],
+      "dependencies": [
+        "rime/rime-luna-pinyin"
+      ],
+      "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "rime/rime-stenotype",
+      "name": "打字速记法",
+      "schemas": [
+        "stenotype"
+      ],
+      "dependencies": [
+        "rime/rime-luna-pinyin"
+      ],
+      "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "lotem/rime-c2h6-pinyin",
+      "name": "乙烷拼音",
+      "schemas": [
+        "c2h6_pinyin"
+      ],
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "repo": "lotem/rime-zhung",
+      "name": "中原官话",
+      "schemas": [
+        "zhung",
+        "zhung_42",
+        "zhung_combo",
+        "zhung_combo_transcript",
+        "zhung_stenotype",
+        "zhung_transcript"
+      ]
+    },
+    {
+      "repo": "xiaobai9978/rime-xiaobai_simp",
+      "name": "小白T9",
+      "schemas": [
+        "xiaobai_simp"
+      ]
     }
   ]
 }

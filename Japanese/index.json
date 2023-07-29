@@ -1,0 +1,11 @@
+{
+  "recipes": [
+    {
+      "repo": "lotem/rime-kana",
+      "name": "假名",
+      "schemas": [
+        "kana"
+      ]
+    }
+  ]
+}

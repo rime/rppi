@@ -1,0 +1,127 @@
+{
+  "recipes": [
+    {
+      "repo": "rime/rime-wubi",
+      "name": "86五笔",
+      "schemas": [
+        "wubi86",
+        "wubi_pinyin",
+        "wubi_trad"
+      ],
+      "dependencies": [
+        "rime/rime-pinyin-simp"
+      ],
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "repo": "rime/rime-cangjie",
+      "name": "仓颉五代",
+      "schemas": [
+        "cangjie5",
+        "cangjie5_express"
+      ],
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "repo": "rime/rime-stroke",
+      "name": "五笔画",
+      "schemas": [
+        "stroke"
+      ],
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "repo": "rime/rime-array",
+      "name": "行列",
+      "schemas": [
+        "array30",
+        "array30_query",
+        "array30_wsymbols"
+      ],
+      "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "rime/rime-scj",
+      "name": "快速仓颉",
+      "schemas": [
+        "scj6"
+      ],
+      "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "rime/rime-quick",
+      "name": "速成",
+      "schemas": [
+        "quick5"
+      ],
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "repo": "KyleBing/rime-wubi86-jidian",
+      "name": "86五笔极点",
+      "schemas": [
+        "numbers",
+        "pinyin_simp",
+        "wubi86_jidian",
+        "wubi86_jidian_pinyin",
+        "wubi86_jidian_trad",
+        "wubi86_jidian_trad_pinyin"
+      ],
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "lotem/rime-zhengma",
+      "name": "郑码",
+      "schemas": [
+        "zhengma"
+      ],
+      "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "lotem/rime-wubi98",
+      "name": "98五笔",
+      "schemas": [
+        "wubi98"
+      ]
+    },
+    {
+      "repo": "lotem/rime-linguistic-wubi",
+      "name": "大字符集五笔",
+      "schemas": [
+        "linguistic_wubi"
+      ]
+    },
+    {
+      "repo": "lotem/rime-guhuwubi",
+      "name": "孤狐五笔",
+      "schemas": [
+        "guhuwubi"
+      ]
+    },
+    {
+      "repo": "amorphobia/rime-jiandao",
+      "branch": "release",
+      "name": "星空键道",
+      "schemas": [
+        "jiandao"
+      ]
+    },
+    {
+      "repo": "amorphobia/openfly",
+      "name": "OpenFly",
+      "schemas": [
+        "openfly"
+      ]
+    },
+    {
+      "repo": "miounet/rime-kmm",
+      "name": "空明码",
+      "labels": [
+        "chord"
+      ],
+      "schemas": [
+        "kongmingma"
+      ]
+    }
+  ]
+}

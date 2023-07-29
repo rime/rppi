@@ -1,0 +1,22 @@
+{
+  "recipes": [
+    {
+      "repo": "iDvel/rime-ice",
+      "name": "雾凇拼音",
+      "labels": [
+        "lua"
+      ],
+      "schemas": [
+        "double_pinyin",
+        "double_pinyin_abc",
+        "double_pinyin_flypy",
+        "double_pinyin_mspy",
+        "double_pinyin_ziguang",
+        "liangfen",
+        "melt_eng",
+        "rime_ice"
+      ],
+      "license": "GPL-3.0-only"
+    }
+  ]
+}
