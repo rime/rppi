@@ -1,0 +1,13 @@
+{
+  "recipes": [
+    {
+      "repo": "AlfredLouis00/rime-Sautungva",
+      "name": "湘语邵东话拼音",
+      "schemas": [
+        "sautungva",
+        "sautungva_beta",
+        "sautungva_phinin",
+        "sautungva_cyrillic"
+      ],
+      "license": "GPL-3.0-only"
+    }
