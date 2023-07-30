@@ -27,6 +27,10 @@
     {
       "key": "Shape",
       "name": "字形"
+    },
+    {
+      "key": "Xiang",
+      "name": "湘语"
     }
   ]
 }
