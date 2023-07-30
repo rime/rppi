@@ -122,6 +122,14 @@
       "schemas": [
         "kongmingma"
       ]
+    },
+    {
+      "repo": "0ZDragon/rime-huma",
+      "name": "虎码",
+      "schemas": [
+        "tiger",
+	"tigress"
+      ]
     }
   ]
 }
