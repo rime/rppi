@@ -21,16 +21,16 @@
       "name": "闽语"
     },
     {
+      "key": "Xiang",
+      "name": "湘语"
+    },
+    {
       "key": "Old",
       "name": "古音"
     },
     {
       "key": "Shape",
       "name": "字形"
-    },
-    {
-      "key": "Xiang",
-      "name": "湘语"
     }
   ]
 }
