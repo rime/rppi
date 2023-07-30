@@ -15,6 +15,13 @@
       "schemas": [
         "dungfungpuo"
       ]
+    },
+    {
+      "repo": "rime-aca/rime-nieh-ched",
+      "name": "爾切羅馬字",
+      "schemas": [
+        "njerchet"
+      ]
     }
   ]
 }
