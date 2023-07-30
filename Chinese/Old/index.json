@@ -18,7 +18,7 @@
     },
     {
       "repo": "Hulenkius/RIME_OC_collections",
-      "name": "上古漢語方案集",
+      "name": "上古音方案集",
       "schemas": [
         "OC_msoegDK",
         "OC_msoeg",
