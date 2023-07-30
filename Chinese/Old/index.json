@@ -17,6 +17,13 @@
       ]
     },
     {
+      "repo": "rime-aca/rime-nieh-ched",
+      "name": "爾切羅馬字",
+      "schemas": [
+        "njerchet"
+      ]
+    },
+    {
       "repo": "Hulenkius/RIME_OC_collections",
       "name": "上古音方案集",
       "schemas": [
