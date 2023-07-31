@@ -130,7 +130,7 @@
         "tiger",
 	"tigress"
       ],
-      "dependencies": [
+      "reverseDependencies": [
         "rime/rime-pinyin-simp"
       ]
     }
