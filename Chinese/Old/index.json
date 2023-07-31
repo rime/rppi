@@ -15,6 +15,31 @@
       "schemas": [
         "dungfungpuo"
       ]
+    },
+    {
+      "repo": "rime-aca/rime-nieh-ched",
+      "name": "爾切羅馬字",
+      "schemas": [
+        "njerchet"
+      ]
+    },
+    {
+      "repo": "Hulenkius/RIME_OC_collections",
+      "name": "上古音方案集",
+      "schemas": [
+        "OC_msoegDK",
+        "OC_msoeg",
+        "OC_baxter-sagart",
+        "OC_starostinLO",
+        "OC_starostinTK",
+        "OC_schuesslerOC",
+        "OC_schuesslerLHC",
+        "OC_zhengzhang",
+        "OC_baxter1992",
+        "OC_wangli",
+        "OC_lifanggui",
+        "OC_zhoufagao"
+      ]
     }
   ]
 }

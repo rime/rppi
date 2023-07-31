@@ -16,7 +16,7 @@ type PARENT_INDEX = {
 type CHILD_INDEX = {
   repo: string // e.g. rime/rime-double-pinyin
   branch?: string // Omit if use default branch
-  name: string
+  name: string // Prefer Simplified Chinese if applicable
   labels?: ('chord' | 'lua')[]
   schemas: string[] // e.g. luna_pinyin
   dependencies?: string[] // Hard dependencies only. e.g. rime/rime-luna-pinyin
