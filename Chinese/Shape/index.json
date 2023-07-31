@@ -129,6 +129,9 @@
       "schemas": [
         "tiger",
 	"tigress"
+      ],
+      "dependencies": [
+        "rime/rime-pinyin-simp"
       ]
     }
   ]
