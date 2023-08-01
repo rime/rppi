@@ -7,6 +7,9 @@
         "zyenpheng",
         "sampheng"
       ],
+      "reverseDependencies": [
+        "rime/rime-luna-pinyin"
+      ],
       "license": "GPL-3.0-only"
     },
     {

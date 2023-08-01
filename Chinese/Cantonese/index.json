@@ -7,6 +7,11 @@
         "jyut6ping3",
         "jyut6ping3_ipa"
       ],
+      "reverseDependencies": [
+        "rime/rime-luna-pinyin",
+        "rime/rime-stroke",
+        "rime/rime-cangjie"
+      ],
       "license": "CC-BY-4.0"
     },
     {

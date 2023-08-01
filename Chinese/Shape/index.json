@@ -20,6 +20,9 @@
         "cangjie5",
         "cangjie5_express"
       ],
+      "reverseDependencies": [
+        "rime/rime-luna-pinyin"
+      ],
       "license": "LGPL-3.0-only"
     },
     {
@@ -27,6 +30,9 @@
       "name": "五笔画",
       "schemas": [
         "stroke"
+      ],
+      "reverseDependencies": [
+        "rime/rime-luna-pinyin"
       ],
       "license": "LGPL-3.0-only"
     },
@@ -38,6 +44,9 @@
         "array30_query",
         "array30_wsymbols"
       ],
+      "reverseDependencies": [
+        "rime/rime-luna-pinyin"
+      ],
       "license": "GPL-3.0-only"
     },
     {
@@ -46,6 +55,9 @@
       "schemas": [
         "scj6"
       ],
+      "reverseDependencies": [
+        "rime/rime-luna-pinyin"
+      ],
       "license": "GPL-3.0-only"
     },
     {
@@ -53,6 +65,9 @@
       "name": "速成",
       "schemas": [
         "quick5"
+      ],
+      "reverseDependencies": [
+        "rime/rime-luna-pinyin"
       ],
       "license": "LGPL-3.0-only"
     },
@@ -128,7 +143,7 @@
       "name": "虎码",
       "schemas": [
         "tiger",
-	"tigress"
+        "tigress"
       ],
       "reverseDependencies": [
         "rime/rime-pinyin-simp"

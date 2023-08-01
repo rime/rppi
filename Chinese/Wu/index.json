@@ -7,6 +7,9 @@
         "wugniu_lopha",
         "wugniu"
       ],
+      "reverseDependencies": [
+        "rime/rime-luna-pinyin"
+      ],
       "license": "GPL-3.0-only"
     },
     {
@@ -14,6 +17,9 @@
       "name": "苏州吴语",
       "schemas": [
         "soutzoe"
+      ],
+      "reverseDependencies": [
+        "rime/rime-luna-pinyin"
       ],
       "license": "GPL-3.0-only"
     }

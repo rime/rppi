@@ -19,7 +19,8 @@ type CHILD_INDEX = {
   name: string // Prefer Simplified Chinese if applicable
   labels?: ('chord' | 'lua')[]
   schemas: string[] // e.g. luna_pinyin
-  dependencies?: string[] // Hard dependencies only. e.g. rime/rime-luna-pinyin
+  dependencies?: string[] // Hard dependencies, e.g. rime/rime-luna-pinyin
+  reverseDependencies?: string[] // Reverse-lookup dependencies, e.g. rime/rime-stroke
   license?: string // Omit if no OSI-approved license
 }
 ```
