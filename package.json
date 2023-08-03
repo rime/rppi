@@ -1,0 +1,23 @@
+{
+  "name": "rppi",
+  "license": "Apache-2.0",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint --ext .ts,.cjs . && eslint -c .eslintrc-json.cjs --ext .json .",
+    "lint:fix": "eslint --ext .ts,.cjs --fix . && eslint -c .eslintrc-json.cjs --ext .json --fix .",
+    "check": "tsc --noEmit",
+    "validate": "node --loader ts-node/esm scripts/validate.ts",
+    "serve": "serve --cors"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.6",
+    "@typescript-eslint/eslint-plugin": "^6.2.1",
+    "eslint": "^8.46.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-json": "^3.1.0",
+    "joi": "^17.9.2",
+    "serve": "^14.2.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
