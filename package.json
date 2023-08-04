@@ -1,7 +1,12 @@
 {
   "name": "rppi",
+  "version": "0.1.0",
   "license": "Apache-2.0",
   "type": "module",
+  "main": "src/index.d.ts",
+  "files": [
+    "src"
+  ],
   "scripts": {
     "lint": "eslint --ext .ts,.cjs . && eslint -c .eslintrc-json.cjs --ext .json .",
     "lint:fix": "eslint --ext .ts,.cjs --fix . && eslint -c .eslintrc-json.cjs --ext .json --fix .",
