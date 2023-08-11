@@ -6,6 +6,15 @@
       "schemas": [
         "kana"
       ]
+    },
+    {
+      "repo": "momijineko/Rime-KappaJP",
+      "name": "河童五笔",
+      "schemas": [
+        "KappaJP",
+        "KappaJP_fluency"
+      ],
+      "license": "MIT"
     }
   ]
 }

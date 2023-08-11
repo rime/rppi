@@ -148,6 +148,41 @@
       "reverseDependencies": [
         "rime/rime-pinyin-simp"
       ]
+    },
+    {
+      "repo": "bigshans/rime-zrm",
+      "name": "自然码+辅码",
+      "schemas": [
+        "zrm_pinyin"
+      ],
+      "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "pingshunhuangalex/rime-keydo",
+      "name": "键道·我流",
+      "labels": [
+        "lua"
+      ],
+      "schemas": [
+        "keydo"
+      ],
+      "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "zongxinbo/rime-zong",
+      "name": "四角号码",
+      "schemas": [
+        "sjhm"
+      ]
+    },
+    {
+      "repo": "ksqsf/rime-moran",
+      "name": "魔改自然码",
+      "schemas": [
+        "moran",
+        "moran_sentence",
+        "moran_fixed"
+      ]
     }
   ]
 }
