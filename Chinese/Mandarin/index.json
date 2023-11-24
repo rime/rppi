@@ -134,7 +134,7 @@
       "reverseDependencies": [
         "rime/rime-stroke"
       ],
-      "license": "LGPL-3.0-only"
+      "license": "GPL-3.0-only"
     }
   ]
 }
