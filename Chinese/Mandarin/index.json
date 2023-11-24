@@ -121,6 +121,20 @@
       "schemas": [
         "xiaobai_simp"
       ]
+    },
+    {
+      "repo": "picado-tv/rime-handarin",
+      "name": "韩官话",
+      "schemas": [
+        "handarin"
+      ],
+      "dependencies": [
+        "rime/rime-luna-pinyin"
+      ],
+      "reverseDependencies": [
+        "rime/rime-stroke"
+      ],
+      "license": "LGPL-3.0-only"
     }
   ]
 }

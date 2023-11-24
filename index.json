@@ -14,6 +14,10 @@
       "name": "日语"
     },
     {
+      "key": "Korean",
+      "name": "韩语"
+    },
+    {
       "key": "Other",
       "name": "其他"
     },
