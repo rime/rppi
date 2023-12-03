@@ -1,0 +1,15 @@
+{
+  "recipes": [
+    {
+      "repo": "picado-tv/rime-hangul",
+      "name": "도한글",
+      "schemas": [
+        "hangul"
+      ],
+      "dependencies": [
+        "picado-tv/rime-handarin"
+      ],
+      "license": "GPL-3.0-only"
+    }
+  ]
+}
