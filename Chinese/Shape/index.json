@@ -183,6 +183,14 @@
         "moran_sentence",
         "moran_fixed"
       ]
+    },
+    {
+      "repo": "mirtlecn/rime-radical-pinyin",
+      "name": "部件拆字",
+      "schemas": [
+        "radical_pinyin"
+      ],
+      "license": "LGPL-3.0-only"
     }
   ]
 }
