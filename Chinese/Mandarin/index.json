@@ -135,6 +135,20 @@
         "rime/rime-stroke"
       ],
       "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "Papnas/shupin",
+      "name": "蜀拼",
+      "schemas": [
+        "shupin_cendu",
+        "shupin_cendu_9key",
+        "shupin_congqin",
+        "shupin_guiyang",
+        "shupin_libin",
+        "shupin_tongyin",
+        "shupin_zigong"
+      ],
+      "license": "GPL-3.0-only"
     }
   ]
 }
