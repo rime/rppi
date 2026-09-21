@@ -1,0 +1,37 @@
+{
+  "recipes": [
+    {
+      "repo": "Doohaey/GonnyuGeneralIME-Rime-Lancong",
+      "name": "赣语-南昌",
+      "labels": [
+        "lua"
+      ],
+      "schemas": [
+        "gannyu_lancong"
+      ],
+      "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "Doohaey/GonnyuGeneralIME-Rime-Fenni",
+      "name": "赣语-分宜",
+      "labels": [
+        "lua"
+      ],
+      "schemas": [
+        "gannyu_fenni"
+      ],
+      "license": "GPL-3.0-only"
+    },
+    {
+      "repo": "Doohaey/GonnyuGeneralIME-Rime-Fungcen",
+      "name": "赣语-丰城",
+      "labels": [
+        "lua"
+      ],
+      "schemas": [
+        "gannyu_fungcen"
+      ],
+      "license": "GPL-3.0-only"
+    }
+  ]
+}
