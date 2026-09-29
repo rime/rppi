@@ -26,6 +26,20 @@
       "license": "LGPL-3.0-only"
     },
     {
+      "repo": "lotem/rime-sancang",
+      "name": "三碼蒼頡",
+      "schemas": [
+        "sancang",
+        "sancang_simp"
+      ],
+      "reverseDependencies": [
+        "rime/rime-luna-pinyin",
+        "rime/rime-pinyin-simp",
+        "rime/rime-essay-simp"
+      ],
+      "license": "LGPL-3.0-only"
+    },
+    {
       "repo": "rime/rime-stroke",
       "name": "五笔画",
       "schemas": [
